@@ -19,11 +19,11 @@ This project is an innovative machine learning application designed to predict a
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/anemia-prediction.git
+    git clone https://github.com/yourusername/anemia_prediction.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd anemia-prediction
+    cd anemia_prediction
     ```
 3. **Install the required dependencies:**
     ```sh
