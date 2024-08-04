@@ -2,6 +2,7 @@
 
 This project is an innovative machine learning application designed to predict anemia risk by taking inputs like red pixel, green pixel, blue pixel intensities, and hemoglobin levels. Using the Naive Bayes classification algorithm, the app processes patient data to deliver accurate anemia predictions. Developed with Python, Scikit-learn, and Streamlit, the app ensures a user-friendly experience.
 
+### Working Link : https://anemia-predict.streamlit.app/
 ## 📋 Features
 
 - **User Input**: Inputs for red, green, blue pixel intensities, and hemoglobin levels.
