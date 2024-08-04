@@ -2,20 +2,20 @@
 
 This project is an innovative machine learning application designed to predict anemia risk by taking inputs like red pixel, green pixel, blue pixel intensities, and hemoglobin levels. Using the Naive Bayes classification algorithm, the app processes patient data to deliver accurate anemia predictions. Developed with Python, Scikit-learn, and Streamlit, the app ensures a user-friendly experience.
 
-## Features
+## 📋 Features
 
 - **User Input**: Inputs for red, green, blue pixel intensities, and hemoglobin levels.
 - **Prediction**: Outputs a prediction indicating whether there is a high risk of anemia.
 - **User-Friendly Interface**: Built with Streamlit for a seamless user experience.
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model](#model)
-- [Contributing](#contributing)
+- [🔧 Installation](#installation)
+- [🚀 Usage](#usage)
+- [📊 Model](#model)
+- [🤝 Contributing](#contributing)
 
-## Installation
+## 🔧 Installation
 
 1. **Clone the repository:**
     ```sh
@@ -30,7 +30,7 @@ This project is an innovative machine learning application designed to predict a
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🚀 Usage
 
 1. **Run the Streamlit app:**
     ```sh
@@ -43,11 +43,11 @@ This project is an innovative machine learning application designed to predict a
 3. **Get the prediction:**
     - Click the "Predict" button to see if there is a high risk of anemia.
 
-## Model
+## 📊 Model
 
 We use the Naive Bayes classification algorithm for anemia prediction. We found Naive Bayes suitable due to its simplicity, efficiency, and effectiveness in handling the features used in this project. Naive Bayes works well with the input features such as pixel intensity values and hemoglobin levels, providing reliable predictions.
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to enhance this project. To contribute, please follow these steps:
 
@@ -66,6 +66,8 @@ We welcome contributions to enhance this project. To contribute, please follow t
     ```
 5. **Open a pull request.**
 
-##
+---
 
 Thank you for your interest in our project! We hope you find it useful and look forward to your contributions.
+
+---
